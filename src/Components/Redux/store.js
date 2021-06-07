@@ -1,6 +1,6 @@
 import produce from "immer"
 import { createStore } from 'redux'
-import actions from "./Redux/action"
+import actions from "./action"
 
 
 const initialState = {

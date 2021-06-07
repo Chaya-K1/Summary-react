@@ -1,7 +1,7 @@
 import logo from './Images/O-logo.png';
 import Home from './Components/Home';
 import About from "./Components/About";
-import store from "./Components/Redux/store";
+import store from "./Redux/store";
 import DetailsGlasses from "./Components/DetailsGlasses";
 import TotalPayment from "./Components/TotalPayment";
 import './App.css';

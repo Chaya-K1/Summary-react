@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { connect } from "react-redux";
-import actions from "./Redux/action";
+import actions from "../Redux/action";
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
 import '../css/DetailsGlasses.css'

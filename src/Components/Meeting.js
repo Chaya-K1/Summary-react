@@ -4,7 +4,7 @@ import Calendar from 'react-calendar';
 import { connect } from 'react-redux'
 import '../css/Calender.css'
 import Meet from "./Meet";
-import actions from "./Redux/action";
+import actions from "../Redux/action";
 
 
 function mapStateToProps(state) {

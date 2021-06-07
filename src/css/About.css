@@ -1,0 +1,19 @@
+.about{
+    display: grid;/**/
+    text-align: left;
+    place-items: center;/*for placing the content exactly center*/
+    height: 40%;/*by default body will not have enough height */
+    background: rgb(239, 241, 241);
+    border-radius: 2%;
+
+  }
+  h4{
+    color: rgb(80, 179, 146);
+  }
+  h2:hover{
+    font-size: 2.75rem;
+
+  }
+  h2{
+      text-shadow: 1px 1px 2px black, 0 0 25px rgb(27, 235, 200), 0 0 5px rgb(80, 179, 146);
+  }
